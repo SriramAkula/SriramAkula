@@ -1,110 +1,139 @@
-# 👋 Hi, I'm Akula Hema Venkata Sriram
+# 👋 Hi, I'm **Akula Hema Venkata Sriram**
 
-### B.Tech Computer Science Student (2026) | Java Backend Developer | Full-Stack Developer | Machine Learning Enthusiast
+<div align="center">
 
-I am a Computer Science student at Lovely Professional University with interests in backend development, full-stack applications, machine learning, and research. I enjoy building practical software solutions using Java, Spring Boot, and modern web technologies while continuously improving my problem-solving and software engineering skills.
+### B.Tech CSE Graduate · Java Backend Developer · ML Enthusiast
+
+Passionate about building clean backend systems, exploring machine learning, and turning research into working software.
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 B.Tech Computer Science Engineering, Lovely Professional University (2026)
-* 💻 Interested in Java Backend Development and Full-Stack Development
-* 🌱 Currently learning advanced Spring Boot concepts, system design fundamentals, and cloud technologies
-* 🤖 Working on Machine Learning and Natural Language Processing projects
-* 📚 Author/co-author of research publications in AI/ML-related domains
+I'm a Computer Science graduate (B.Tech, 2026) from Lovely Professional University. I enjoy building Java backend applications using Spring Boot, working on full-stack projects, and applying machine learning to real-world problems. I also have published research in NLP and image classification.
+
+### 🎯 What I Work On
+- **Backend Development** — Java, Spring Boot, REST APIs, microservices
+- **Full-Stack Projects** — React frontend with Spring Boot backend
+- **Machine Learning** — NLP, deep learning, predictive analytics
+- **Databases** — PostgreSQL, MongoDB, MySQL
+
+### 💼 What I'm Looking For
+- Associate / Junior Software Engineer roles
+- Java Backend or Full-Stack Developer positions
+- ML Engineer or Data Science opportunities
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
-
-* Java
-* Python
-* JavaScript
-* SQL
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
 
 ### Backend
-
-* Spring Boot
-* Spring Framework
-* REST APIs
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-009688?style=flat&logoColor=white)
 
 ### Frontend
-
-* React
-* HTML
-* CSS
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C87?style=flat&logo=mysql&logoColor=white)
 
-* MySQL
-* PostgreSQL
-* MongoDB
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-### Tools
-
-* Git
-* GitHub
-* Maven
-* Postman
-* Docker
+### ML & AI
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
 
 ---
 
 ## 📁 Featured Projects
 
-### SkillSync
-
-A platform focused on skill development and collaboration.
-
-**Tech Stack:** Java, Spring Boot, React, PostgreSQL
-
-### Human Activity Recognition
-
-Machine learning project for classifying human activities using sensor data.
-
-**Tech Stack:** Python, TensorFlow, Keras, Scikit-learn
-
-### POS Tagging & Spell Checking
-
-Natural Language Processing project implementing POS tagging and spell correction techniques.
-
-**Tech Stack:** Python, NLP Libraries
-
-> Keep only projects that are publicly available on GitHub.
+| Project | Description | Stack |
+|:---|:---|:---|
+| **SkillSync** | Skill-matching and professional networking platform with recommendation features | Java, Spring Boot, PostgreSQL, React, Docker |
+| **Human Activity Recognition** | Deep learning model to classify human activities from sensor data using LSTM networks | Python, TensorFlow, Keras, Scikit-learn |
+| **Livestock Health Monitoring System** | IoT-enabled system for monitoring livestock health with real-time alerts | Java, Spring Boot, MongoDB |
+| **POS Tagging & Spell Checking (NLP)** | NLP pipeline for Parts-of-Speech tagging and spell checking using statistical and ML methods | Python, NLTK, SpaCy |
 
 ---
 
 ## 📚 Research Publications
 
-### Publications
-
-* [Add Publication Title 1]
-* [Add Publication Title 2]
-
-Include the exact paper titles, conference names, and publication links.
+- **NLP Research** — Contributions in text analysis, semantic understanding, and language model applications
+- **Image Classification using CNN** — Research on convolutional neural networks for image recognition tasks
 
 ---
 
-## 🌐 Portfolio
+## 🏆 Certifications
 
-Portfolio Website:
-
-https://sriram-akula-port-folio.vercel.app
+| Certification | Platform |
+|:---|:---|
+| Cloud Computing Fundamentals | NPTEL |
+| Generative AI with Large Language Models | Coursera |
+| Complete Interview Preparation | GeeksforGeeks |
 
 ---
 
 ## 📊 GitHub Stats
 
-[Keep existing GitHub stats section unchanged]
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SriramAkula&theme=radical&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/SriramAkula)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SriramAkula&theme=radical&layout=compact)](https://github.com/SriramAkula)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SriramAkula&theme=radical)](https://github.com/SriramAkula)
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SriramAkula&theme=radical)](https://github.com/SriramAkula)
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SriramAkula&theme=radical&column=3&margin-w=15)](https://github.com/SriramAkula)
+
+</div>
 
 ---
 
-## 📫 Connect With Me
+## 🎯 Goals for 2026
 
-* LinkedIn: https://linkedin.com/in/SriramAkula
-* Portfolio: https://sriram-akula-port-folio.vercel.app
-* Email: your_actual_email_here
-* GitHub: https://github.com/SriramAkula
+- 🔧 Deepen Java and Spring Boot skills through real projects
+- 🏗️ Build and deploy more full-stack applications end to end
+- 🤖 Apply ML to practical, domain-specific problems
+- 🌐 Contribute to open-source projects
+- ☁️ Get hands-on experience with cloud deployment (AWS / Docker)
+
+---
+
+## 📫 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SriramAkula)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sriram-akula-port-folio.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akulahemavenkatasriram@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SriramAkula)
+
+</div>
+
+---
+
+<div align="center">
+
+*B.Tech Computer Science · Lovely Professional University · 2026*
+
+</div>
